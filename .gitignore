@@ -14,8 +14,9 @@ venv.bak/
 .dist-info/
 *.egg
 
-# Jupyter Notebook checkpoints
+# Jupyter generated files
 .ipynb_checkpoints/
+.virtual_documents/
 
 # VS Code settings
 .vscode/
